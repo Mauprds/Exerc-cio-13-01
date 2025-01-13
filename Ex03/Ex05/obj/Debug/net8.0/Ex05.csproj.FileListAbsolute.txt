@@ -1,0 +1,14 @@
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\bin\Debug\net8.0\Ex05.exe
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\bin\Debug\net8.0\Ex05.deps.json
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\bin\Debug\net8.0\Ex05.runtimeconfig.json
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\bin\Debug\net8.0\Ex05.dll
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\bin\Debug\net8.0\Ex05.pdb
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfoInputs.cache
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.AssemblyInfo.cs
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.dll
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\refint\Ex05.dll
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.pdb
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\Ex05.genruntimeconfig.cache
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex05\obj\Debug\net8.0\ref\Ex05.dll

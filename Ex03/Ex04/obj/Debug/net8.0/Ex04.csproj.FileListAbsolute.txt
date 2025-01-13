@@ -1,0 +1,14 @@
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\bin\Debug\net8.0\Ex04.exe
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\bin\Debug\net8.0\Ex04.deps.json
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\bin\Debug\net8.0\Ex04.runtimeconfig.json
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\bin\Debug\net8.0\Ex04.dll
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\bin\Debug\net8.0\Ex04.pdb
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfoInputs.cache
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.AssemblyInfo.cs
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.csproj.CoreCompileInputs.cache
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.dll
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\refint\Ex04.dll
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.pdb
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\Ex04.genruntimeconfig.cache
+C:\Users\mauricio.prsantos\source\repos\Ex03\Ex04\obj\Debug\net8.0\ref\Ex04.dll
